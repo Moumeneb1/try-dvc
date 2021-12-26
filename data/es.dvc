@@ -1,0 +1,5 @@
+outs:
+- md5: 39a6e181dd57c57aa51512d5e1735348.dir
+  size: 30048249
+  nfiles: 3234
+  path: es
